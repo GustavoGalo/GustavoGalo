@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
 
-My name is Gustavo Henrique Coimbra Galo. I work as a Front-End Developer at Helpper.
+My name is Gustavo Galo. I work as a Front-End Developer at Helpper.
 
 <!-- ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GustavoGalo&repo=GustavoGalo&countColorcountColor) -->
 
@@ -14,8 +14,8 @@ My name is Gustavo Henrique Coimbra Galo. I work as a Front-End Developer at Hel
 
 ### Analytics ⚙️
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GustavoGalo&hide_border=true&theme=dark)
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=GustavoGalo&count_private=true&show_icons=true&theme=dark)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GustavoGalo&hide_border=true&theme=dark)
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGalo&layout=compact&count_private=true&theme=dark)
 
