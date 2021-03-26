@@ -4,14 +4,6 @@
 
 My name is Gustavo Galo. I work as a Front-End Developer at Helpper.
 
-<!-- ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GustavoGalo&repo=GustavoGalo&countColorcountColor) -->
-
-### Languages & Tools 🛠  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;  
-![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&color=orange)&nbsp;![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&color=orange)&nbsp;![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&color=orange)&nbsp;  
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;  
-
-
 ### Analytics ⚙️
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=GustavoGalo&count_private=true&show_icons=true&theme=dark)
