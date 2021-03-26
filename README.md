@@ -16,6 +16,7 @@ My name is Gustavo Henrique Coimbra Galo. I work as a Front-End Developer at Hel
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=GustavoGalo&hide_border=true&theme=dark)
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=GustavoGalo&count_private=true&show_icons=true&theme=dark)
+
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGalo&layout=compact&count_private=true&theme=dark)
 
 ### Let's connect? 🤝
